@@ -3,3 +3,4 @@ public boolean endOther(String a, String b) {
     b = b.toLowerCase();
     return a.endsWith(b) || b.endsWith(a);
 }
+ 
