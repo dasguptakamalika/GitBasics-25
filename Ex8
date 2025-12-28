@@ -6,5 +6,5 @@ public int countHi(String str) {
         }
     }
     return count;
-}
+} 
  
