@@ -4,3 +4,4 @@ public boolean xyBalance(String str) {
     return lastX == -1 || lastY > lastX;
 }
  
+ 
