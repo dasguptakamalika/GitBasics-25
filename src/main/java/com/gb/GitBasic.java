@@ -6,3 +6,4 @@ public class GitBasic {
         System.out.println("Let us get familiarized with GIT with basic git commands!"); 
     }
 }
+ 
